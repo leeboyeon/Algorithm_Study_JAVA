@@ -17,6 +17,6 @@
 ## 👍 **Algorithm Table**  
 |기간|내용|주소|
 |:------:|---|---|
-|21-08-04~21-08-11|1. Greedy<br>2.Stack<br>3.Queue|1.https://programmers.co.kr/learn/courses/30/lessons/42862<br>2.https://www.acmicpc.net/problem/2504 <br>3.https://www.acmicpc.net/problem/1966 |
+|21-08-04~21-08-11|1.Greedy<br>2.Stack<br>3.Queue|1.https://programmers.co.kr/learn/courses/30/lessons/42862<br>2.https://www.acmicpc.net/problem/2504 <br>3.https://www.acmicpc.net/problem/1966 |
 ||||
 ||||
