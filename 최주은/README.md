@@ -14,8 +14,8 @@
 | **8/6(금)** |                                                              |        |
 | **8/7(토)** |                                                              |        |
 | **8/8(일)** |                                                              |        |
-| **8/9(월)** |                                                              |        |
-| **8/10(화)**|                                                              |        |
+| **8/9(월)** |[[백준_1966_프린터큐](https://www.acmicpc.net/problem/1966)]   |        |
+| **8/10(화)**|[[Programmers_LV1_체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)] |        |
 
 <br>
 
