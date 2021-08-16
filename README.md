@@ -18,5 +18,5 @@
 |기간|내용|주소|
 |:------:|---|---|
 |21-08-04~21-08-11|1.Greedy<br>2.Stack<br>3.Queue|1.https://programmers.co.kr/learn/courses/30/lessons/42862<br>2.https://www.acmicpc.net/problem/2504 <br>3.https://www.acmicpc.net/problem/1966 |
-||||
+|21-08-11~21-08-18|1. BFS - 김형우<br>2. Stack - 최두나<br>3. 카카오 - 최주은|1. https://www.acmicpc.net/problem/1697<br>2. https://www.acmicpc.net/problem/1874<br>3. https://programmers.co.kr/learn/courses/30/lessons/67256|
 ||||
