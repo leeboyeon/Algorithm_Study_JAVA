@@ -34,7 +34,7 @@
 | **8/12(목)** |                                                              |        |
 | **8/13(금)** |                                                              |        |
 | **8/14(토)** |                                                              |        |
-| **8/15(일)** |                                                              |        |
+| **8/15(일)** |[[백준_1697_숨바꼭질](https://www.acmicpc.net/problem/1697)]   | [바로가기](https://github.com/Jueundev/Algorithm_Study_JAVA/blob/main/%EC%B5%9C%EC%A3%BC%EC%9D%80/Baekjoon/1697_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java)| |
 | **8/16(월)** |[[Programmers_LV1_키패드](https://programmers.co.kr/learn/courses/30/lessons/67256)] | [바로가기](https://github.com/Jueundev/Algorithm_Study_JAVA/blob/main/%EC%B5%9C%EC%A3%BC%EC%9D%80/Programmers/2020_%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%B8%ED%84%B4%EC%89%BD/%ED%82%A4%ED%8C%A8%EB%93%9C.java)|
 | **8/17(화)** |[[백준_1874_스택수열](https://www.acmicpc.net/problem/1874)]   | [바로가기](https://github.com/Jueundev/Algorithm_Study_JAVA/blob/main/%EC%B5%9C%EC%A3%BC%EC%9D%80/Baekjoon/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.java)| |
 
