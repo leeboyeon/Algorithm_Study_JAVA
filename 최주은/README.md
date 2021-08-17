@@ -39,8 +39,10 @@
 | **8/17(화)** |[[백준_1874_스택수열](https://www.acmicpc.net/problem/1874)]   | [바로가기](https://github.com/Jueundev/Algorithm_Study_JAVA/blob/main/%EC%B5%9C%EC%A3%BC%EC%9D%80/Baekjoon/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.java)| |
 
 <br>
+</details>
 
-<summary><strong> &#127804; 2주차 &#127804; (2021/08/11 ~ 2021/08/17)</strong></summary>
+<details markdown="1">
+<summary><strong> &#127804; 3주차 &#127804; (2021/08/18 ~ 2021/08/24)</strong></summary>
 <br>
 <br>
 
